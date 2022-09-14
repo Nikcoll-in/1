@@ -7,5 +7,5 @@ function getSum(str: any) {
   }
   return sum;
 }
-let str: any = "33";
+let str: any = "3333";
 console.log(getSum(str));

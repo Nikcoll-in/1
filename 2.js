@@ -6,5 +6,5 @@ function getSum(str) {
   }
   return sum;
 }
-var str = "333";
+var str = "3333";
 console.log(getSum(str));
